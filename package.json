@@ -1,0 +1,15 @@
+{
+  "name": "game-design-principles",
+  "version": "1.0.0",
+  "description": "A project about game design principles applied to a RPG game built in Phaser.",
+  "main": "index.js",
+  "repository": "git@github.com:jsebax/game-design-principles.git",
+  "author": "Sebastian Benitez <jsb1439@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+	  "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
